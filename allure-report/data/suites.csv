@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Nov 26 15:11:58 IST 2024","Tue Nov 26 15:11:59 IST 2024","1508","test","test_sample","","","","test_playwright",""
+"passed","Tue Nov 26 15:11:56 IST 2024","Tue Nov 26 15:11:56 IST 2024","0","test","test_sample","","","","test_sample",""
+"failed","Tue Nov 26 15:12:00 IST 2024","Tue Nov 26 15:12:01 IST 2024","1277","test","test_sample","","","","test_playwright_fail",""
+"passed","Tue Nov 26 14:51:53 IST 2024","Tue Nov 26 14:51:53 IST 2024","0","test","test_sample","","","","test_valid_login",""
